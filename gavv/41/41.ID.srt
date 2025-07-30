@@ -163,7 +163,11 @@ Apa yang dia lakukan?
 
 38
 00:04:33,450 --> 00:04:36,200
-Kacamata Yang Mendekat Perlahan
+<i>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Kacamata Yang Mendekat Perlahan
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+</i>
 
 39
 00:04:33,340 --> 00:04:36,430
