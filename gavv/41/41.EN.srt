@@ -139,7 +139,7 @@ What's he doing?
 
 34
 00:04:33,340 --> 00:04:36,300
-<i>Glasses Creeping Closer
+<i>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Glasses Creeping Closer
 ‎ 
 </i>
 
@@ -1170,6 +1170,6 @@ for you to experiment with!
 
 282
 00:23:16,160 --> 00:23:19,590
-<i>At the End of Broken Feelings
+<i>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ At the End of Broken Feelings
 ‎ 
 </i>
